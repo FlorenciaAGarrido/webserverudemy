@@ -1,15 +1,16 @@
 # Web Server 
-Cubre varios temas como:
-- Uso y configuracion de Express
-- Servir contenido estatico
-- Servir contenido dinamico
-- Template engines
-- Handebars ( parciales y variables )
-- Despliegues en Heroku
-- Hacer carpetas públicas en la web
-- Desplegar aplicaciones de Angular y React
 
-# URL DE APLICACION A PRODUCCION
+It covers various topics such as:
+- Use and configuration of Express
+- Serve static content
+- Serve dynamic content
+- Template Engines
+- Handlebar (partial and variable)
+- Deployments on Heroku
+- Make public folders on the web
+- Deploy Angular and React applications
+
+# URL FROM APPLICATION TO PRODUCTION
 ~~~
 https://webserverudemy.herokuapp.com/
 ~~~
