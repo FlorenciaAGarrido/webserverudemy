@@ -10,7 +10,16 @@ It covers various topics such as:
 - Make public folders on the web
 - Deploy Angular and React applications
 
-# URL FROM APPLICATION TO PRODUCTION
-~~~
-https://webserverudemy.herokuapp.com/
-~~~
+# Demo
+You can visualize the proyect [here](https://webserverudemy.herokuapp.com/)
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:8081](http://localhost:8081) to view it in your browser.
+
+
