@@ -8,7 +8,6 @@ It covers various topics such as:
 - Handlebar (partial and variable)
 - Deployments on Heroku
 - Make public folders on the web
-- Deploy Angular and React applications
 
 # Demo
 You can visualize the proyect [here](https://webserverudemy.herokuapp.com/)
